@@ -98,12 +98,3 @@ Article-Summarizer/
 ```
 
 ---
-
-## 💡 Future Enhancements
-
-* 🌐 Multi-language support
-* 🤖 AI-powered summarization
-* 📊 Advanced data visualization
-* 🔐 User authentication
-
----
