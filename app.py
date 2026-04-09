@@ -43,6 +43,7 @@ body {
 # Sidebar
 st.sidebar.title("⚙️ Settings")
 show_full_text = st.sidebar.checkbox("Show Full Article")
+show_keywords = st.sidebar.checkbox("Show Keywords")
 
 # Header
 st.markdown('<div class="big-title">📰 Article Summarizer</div>', unsafe_allow_html=True)
