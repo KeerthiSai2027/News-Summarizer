@@ -1,0 +1,6 @@
+streamlit>=1.35
+requests>=2.31
+transformers>=4.40,<5
+torch>=2.2
+trafilatura>=1.9
+python-dotenv>=1.0
