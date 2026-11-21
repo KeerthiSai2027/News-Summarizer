@@ -13,8 +13,6 @@ Live headlines, condensed by an AI model running **locally**, with no paid LLM A
 
 **[🚀 Live Demo](https://news-summarizer-eybkbbvpbbx8y6ctpxdbpv.streamlit.app/)** · **[🐛 Report Bug](../../issues)** · **[💡 Request Feature](../../issues)**
 
-<!-- Replace with a real screenshot or GIF: save it as assets/demo.png -->
-<img src="assets/demo.png" alt="News Summarizer demo" width="85%">
 
 </div>
 
